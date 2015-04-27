@@ -96,5 +96,5 @@ This is a Coode Book for a tidy data set that can be found in `summary.txt`:
     - fBodyBodyGyroJerkMag.std 
     - fBodyBodyGyroJerkMag.meanFreq 
 
-- Mean: mean value of a measured `Variable` for a given `Subject` and a given `Activity`
+- `Mean`: mean value of a measured `Variable` for a given `Subject` and a given `Activity`
  - values: (-1, 1)
