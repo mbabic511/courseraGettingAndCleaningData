@@ -3,7 +3,7 @@
 This is a Coode Book for a tidy data set that can be found in `summary.txt`:
 
 - `Subject`: a subject that has been tested or trained
- - values: (1, 30)
+ - values: [1, 30]
 
 - `Activity`: activity that the `Subject` was in while mesurements were taken
  - values: 
@@ -97,4 +97,4 @@ This is a Coode Book for a tidy data set that can be found in `summary.txt`:
     - fBodyBodyGyroJerkMag.meanFreq 
 
 - `Mean`: mean value of a measured `Variable` for a given `Subject` and a given `Activity`
- - values: (-1, 1)
+ - values: [-1, 1]
